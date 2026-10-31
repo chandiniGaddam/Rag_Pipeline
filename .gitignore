@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+# Rebuilt from knowledge/ on every start
+vector_db/
+# Runtime ticket store (test data)
+tickets.json
+.env

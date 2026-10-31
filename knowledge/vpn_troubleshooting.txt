@@ -1,0 +1,15 @@
+Title: Company VPN Troubleshooting Policy
+
+Employees who cannot connect to the company VPN must first check whether their internet connection is working.
+
+Employees must verify that they are using the approved company VPN application.
+
+If the VPN application displays an authentication error, employees should verify their company login credentials.
+
+Employees must not share their passwords with IT support staff.
+
+If the VPN connection still fails after these checks, employees must raise an IT Helpdesk ticket.
+
+The ticket should include the error message, the time of the failure, and the troubleshooting steps already attempted.
+
+Employees must not disable company security software to make the VPN connection work.

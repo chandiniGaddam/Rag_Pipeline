@@ -1,0 +1,13 @@
+Title: Company Application Access Policy
+
+Employees who require access to a company application must submit an access request through the approved IT service portal.
+
+The request must include the employee's name, the application name, the business justification, and the required access level.
+
+The employee's manager must approve the request.
+
+Access is granted only after the required approval and security checks are completed.
+
+Employees must not use another employee's account to access an application.
+
+If access has not been granted after approval, the employee should contact the IT Helpdesk with the request reference number.
